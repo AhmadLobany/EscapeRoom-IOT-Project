@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Syncfusion.SfImageEditor.UWP" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Syncfusion.SfImageEditor.UWP">
+				<NamedResource name="Syncfusion.SfImageEditor.UWP.xr.xml" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.xr.xml">
+					<Candidate type="Path">
+						<Value>Syncfusion.SfImageEditor.UWP\Syncfusion.SfImageEditor.UWP.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assets">
+					<ResourceMapSubtree name="Fonts">
+						<NamedResource name="Bradley Hand.ttf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Assets/Fonts/Bradley Hand.ttf">
+							<Candidate type="Path">
+								<Value>Syncfusion.SfImageEditor.UWP\Assets\Fonts\Bradley Hand.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Marker Felt.ttf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Assets/Fonts/Marker Felt.ttf">
+							<Candidate type="Path">
+								<Value>Syncfusion.SfImageEditor.UWP\Assets\Fonts\Marker Felt.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Noteworthy.ttf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Assets/Fonts/Noteworthy.ttf">
+							<Candidate type="Path">
+								<Value>Syncfusion.SfImageEditor.UWP\Assets\Fonts\Noteworthy.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SignPainter.ttf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Assets/Fonts/SignPainter.ttf">
+							<Candidate type="Path">
+								<Value>Syncfusion.SfImageEditor.UWP\Assets\Fonts\SignPainter.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Snell Roundhand.ttf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Assets/Fonts/Snell Roundhand.ttf">
+							<Candidate type="Path">
+								<Value>Syncfusion.SfImageEditor.UWP\Assets\Fonts\Snell Roundhand.ttf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="Syncfusion.SfImageEditor.UWP.rd.xml" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Properties/Syncfusion.SfImageEditor.UWP.rd.xml">
+						<Candidate type="Path">
+							<Value>Syncfusion.SfImageEditor.UWP\Properties\Syncfusion.SfImageEditor.UWP.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SfImageEditor">
+					<NamedResource name="TextMessageBox.xbf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/SfImageEditor/TextMessageBox.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xbf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Themes/generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="GenericToolBar.xbf" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Files/Syncfusion.SfImageEditor.UWP/Themes/GenericToolBar.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Syncfusion.SfImageEditor.UWP">
+			<ResourceMapSubtree name="Syncfusion.SfImageEditor.UWP.Resources">
+				<NamedResource name="Add" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Add">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cancel" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Cancel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CropText" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/CropText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Crop</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Enter Text" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Enter Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter Text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EnterText" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/EnterText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter Text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Fill" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Fill">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fill</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Free" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Free">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Free</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ok" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Ok">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>OK</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Original" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Original">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Original</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Outline" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Outline">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Outline</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Reset" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Reset">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Reset</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Save" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Save">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Save</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square" uri="ms-resource://Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP/Syncfusion.SfImageEditor.UWP.Resources/Square">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Square</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

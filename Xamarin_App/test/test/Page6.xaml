@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.Page6">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="  "  TextColor="Orange"  FontSize="25" HorizontalOptions="Center" 
+               FontAttributes="Bold"/>
+            <Label Text="Morse Code Machine"  TextColor="Red"  FontSize="25" HorizontalOptions="Center" 
+               FontAttributes="Bold"/>
+            <Label Text="  "  TextColor="Orange"  FontSize="25" HorizontalOptions="Center" 
+               FontAttributes="Bold"/>
+            <Image x:Name="Puz1" BackgroundColor="White"/>
+            <Label Text="   "  TextColor="Orange"  FontSize="25" HorizontalOptions="Center" 
+               FontAttributes="Bold"/>
+            <Label Text="    "  TextColor="Orange"  FontSize="25" HorizontalOptions="Center" 
+               FontAttributes="Bold"/>
+            <Label Text="   "  TextColor="Orange"  FontSize="25" HorizontalOptions="Center" 
+               FontAttributes="Bold"/>
+            <Button  Text="Hint1"   HorizontalOptions="Center" Clicked="Puz1_Clicked" TextColor="Black" FontAttributes="Bold"/>
+            <Button  Text="Hint2"   HorizontalOptions="Center" Clicked="Puz1_Clicked2" TextColor="Black" FontAttributes="Bold"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

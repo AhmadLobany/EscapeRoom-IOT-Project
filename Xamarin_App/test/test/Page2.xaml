@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.Page2">
+    <ContentPage.Content>
+        <Grid Margin="16">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="0">
+                <Label Text="Hey! Ready To Start?"  TextColor="Orange"  FontSize="25"
+               FontAttributes="Bold"/>
+                <Label Text="Game Instructions:"  TextColor="Green"  FontSize="32"
+               FontAttributes="Bold"/>
+                <Label Text="(1) Physical power is not required so please don't force, push or bang on  wires and electron boards"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(2) Click the puzzle's button to get some clues to help you"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(3) Puzzels order doesn't matter,Our puzzles are designed to be solved using logic, thinking and observation"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(4) Each puzzle you solve will give you a string on the puzzle's LCD "  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(5) The string will remain on the puzzle's LCD for *1 Minute*"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(6) Inserting the three correct strings will end the game"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(7) The purpose is to solve the game as soon as possible"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(8) You Have up to 15 Minutes to solve the puzzles!"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="(9) When you click 'start game' Time will start counting"  TextColor="Black"  FontSize="14"
+               />
+                <Label Text="  Have fun! "  TextColor="Red"  FontSize="40" HorizontalOptions="Center"
+               FontAttributes="Bold"/>
+                <Button Grid.Row="2" Text="Start Game" Clicked="Start_Game" FontAttributes="Bold" TextColor="DarkOrange"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
